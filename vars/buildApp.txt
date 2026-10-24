@@ -1,0 +1,5 @@
+buildApp(name: 'frontend', lang: 'node')
+
+Builds an application.
+  name - application name (default: app)
+  lang - node | maven (default: node)
